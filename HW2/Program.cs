@@ -24,6 +24,8 @@ namespace HW2
                 Console.ReadKey();
             }
 
+            //kkk
+
             static void Echo(string saidworld, int deep)
             {
                 var modif = saidworld;
